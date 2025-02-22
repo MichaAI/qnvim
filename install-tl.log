@@ -1,0 +1,466 @@
+TeX Live installer invocation: /data/data/com.termux/files/usr/opt/texlive/install-tl/install-tl -custom-bin /data/data/com.termux/files/usr/bin/texlive -init-from-profile /data/data/com.termux/files/usr/opt/texlive/termux.profile 
+Trying to verify cryptographic signatures!
+Loading https://mirror.truenetwork.ru/CTAN/systems/texlive/tlnet/tlpkg/texlive.tlpdb
+Installing TeX Live 2024 from: https://mirror.truenetwork.ru/CTAN/systems/texlive/tlnet (verified)
+Platform: armel-linux => 'GNU/Linux on ARM'
+Distribution: net  (downloading)
+Using URL: https://mirror.truenetwork.ru/CTAN/systems/texlive/tlnet
+Directory for temporary files: /data/data/com.termux/files/usr/tmp/_VI7NEuU9G
+Installer revision: 69711
+Database revision: 73978
+Settings:
+  TEXDIR: "/data/data/com.termux/files/usr/share/texlive/2024"
+  TEXMFCONFIG: "~/.texlive2024/texmf-config"
+  TEXMFHOME: "~/texmf"
+  TEXMFLOCAL: "/data/data/com.termux/files/usr/share/texlive/texmf-local"
+  TEXMFSYSCONFIG: "/data/data/com.termux/files/usr/share/texlive/2024/texmf-config"
+  TEXMFSYSVAR: "/data/data/com.termux/files/usr/share/texlive/2024/texmf-var"
+  TEXMFVAR: "~/.texlive2024/texmf-var"
+  binary_aarch64-linux: ""
+  binary_amd64-freebsd: ""
+  binary_amd64-netbsd: ""
+  binary_armhf-linux: ""
+  binary_i386-freebsd: ""
+  binary_i386-linux: ""
+  binary_i386-netbsd: ""
+  binary_i386-solaris: ""
+  binary_universal-darwin: ""
+  binary_windows: ""
+  binary_x86_64-cygwin: ""
+  binary_x86_64-darwinlegacy: ""
+  binary_x86_64-linux: ""
+  binary_x86_64-linuxmusl: ""
+  binary_x86_64-solaris: ""
+  collection-basic: "1"
+  collection-bibtexextra: "1"
+  collection-binextra: "1"
+  collection-context: "1"
+  collection-fontsextra: "1"
+  collection-fontsrecommended: "1"
+  collection-fontutils: "1"
+  collection-formatsextra: "1"
+  collection-games: "1"
+  collection-humanities: "1"
+  collection-langarabic: "1"
+  collection-langchinese: "1"
+  collection-langcjk: "1"
+  collection-langcyrillic: "1"
+  collection-langczechslovak: "1"
+  collection-langenglish: "1"
+  collection-langeuropean: "1"
+  collection-langfrench: "1"
+  collection-langgerman: "1"
+  collection-langgreek: "1"
+  collection-langitalian: "1"
+  collection-langjapanese: "1"
+  collection-langkorean: "1"
+  collection-langother: "1"
+  collection-langpolish: "1"
+  collection-langportuguese: "1"
+  collection-langspanish: "1"
+  collection-latex: "1"
+  collection-latexextra: "1"
+  collection-latexrecommended: "1"
+  collection-luatex: "1"
+  collection-mathscience: "1"
+  collection-metapost: "1"
+  collection-music: "1"
+  collection-pictures: "1"
+  collection-plaingeneric: "1"
+  collection-pstricks: "1"
+  collection-publishers: "1"
+  collection-texworks: "1"
+  collection-wintools: ""
+  collection-xetex: "1"
+  doc_splitting_supported: "1"
+  free_size: "74948"
+  instopt_adjustpath: "1"
+  instopt_adjustrepo: "1"
+  instopt_letter: ""
+  instopt_portable: ""
+  instopt_write18_restricted: "1"
+  n_collections_available: "41"
+  n_collections_selected: "40"
+  n_systems_available: "15"
+  n_systems_selected: ""
+  page: ""
+  selected_scheme: "scheme-full"
+  src_splitting_supported: "1"
+  this_platform: "armel-linux"
+  tlpdbopt_autobackup: "1"
+  tlpdbopt_backupdir: "tlpkg/backups"
+  tlpdbopt_create_formats: "1"
+  tlpdbopt_desktop_integration: "1"
+  tlpdbopt_file_assocs: "1"
+  tlpdbopt_generate_updmap: ""
+  tlpdbopt_install_docfiles: ""
+  tlpdbopt_install_srcfiles: ""
+  tlpdbopt_location: "https://mirror.truenetwork.ru/CTAN/systems/texlive/tlnet"
+  tlpdbopt_post_code: "1"
+  tlpdbopt_sys_bin: "/data/data/com.termux/files/usr/bin"
+  tlpdbopt_sys_info: "/data/data/com.termux/files/usr/share/info"
+  tlpdbopt_sys_man: "/data/data/com.termux/files/usr/share/man"
+  tlpdbopt_w32_multi_user: "1"
+  total_size: "3856"
+Installing to: /data/data/com.termux/files/usr/share/texlive/2024
+Installing [1/4, time/total: ??:??/??:??]: hyphen-base [23k]
+Installing [2/4, time/total: 00:01/00:23]: kpathsea [33k]
+Installing [3/4, time/total: 00:01/00:09]: texlive-scripts [112k]
+Installing [4/4, time/total: 00:02/00:06]: texlive.infra [359k]
+Time used for installing the packages: 00:03
+Installing [0001/4569, time/total: ??:??/??:??]: 12many [3k]
+Installing [0002/4569, time/total: 00:01/182:00:53]: 2up [5k]
+Installing [0003/4569, time/total: 00:01/60:44:55]: a0poster [4k]
+Installing [0004/4569, time/total: 00:02/79:41:00]: a2ping [30k]
+Installing [0005/4569, time/total: 00:02/19:01:20]: a4wide [1k]
+Installing [0006/4569, time/total: 00:03/27:50:02]: a5comb [1k]
+Installing [0007/4569, time/total: 00:03/27:11:46]: aaai-named [6k]
+Installing [0008/4569, time/total: 00:04/32:18:22]: aalok [6k]
+Installing [0009/4569, time/total: 00:04/28:37:41]: aastex [50k]
+Installing [0010/4569, time/total: 00:05/18:27:42]: abbr [3k]
+Installing [0011/4569, time/total: 00:05/18:00:20]: abc [3k]
+Installing [0012/4569, time/total: 00:06/21:05:22]: abnt [3k]
+Installing [0013/4569, time/total: 00:06/20:33:40]: abntex2 [30k]
+Installing [0014/4569, time/total: 00:07/18:55:19]: abntexto [9k]
+Installing [0015/4569, time/total: 00:07/17:53:01]: aboensis [95k]
+Installing [0016/4569, time/total: 00:08/12:25:44]: abraces [4k]
+Installing [0017/4569, time/total: 00:08/12:14:00]: abspos [3k]
+Installing [0018/4569, time/total: 00:09/13:37:44]: abstract [2k]
+Installing [0019/4569, time/total: 00:09/13:31:24]: abstyles [8k]
+Installing [0020/4569, time/total: 00:10/14:34:08]: academicons [35k]
+Installing [0021/4569, time/total: 00:10/12:50:46]: accanthis [360k]
+Installing [0022/4569, time/total: 00:11/06:19:24]: accents [3k]
+Installing [0023/4569, time/total: 00:12/06:52:04]: accessibility [14k]
+Installing [0024/4569, time/total: 00:12/06:43:50]: accfonts [22k]
+Installing [0025/4569, time/total: 00:13/07:03:40]: accsupp [4k]
+Installing [0026/4569, time/total: 00:13/07:01:42]: achemso [19k]
+Installing [0027/4569, time/total: 00:14/07:22:04]: acmart [43k]
+Installing [0028/4569, time/total: 00:15/07:26:52]: acmconf [5k]
+Installing [0029/4569, time/total: 00:15/07:24:27]: acro [44k]
+Installing [0030/4569, time/total: 00:16/07:28:23]: acronym [6k]
+Installing [0031/4569, time/total: 00:16/07:25:33]: acroterm [2k]
+Installing [0032/4569, time/total: 00:17/07:52:36]: active-conf [5k]
+Installing [0033/4569, time/total: 00:17/07:50:00]: actuarialangle [2k]
+Installing [0034/4569, time/total: 00:18/08:16:27]: actuarialsymbol [3k]
+Installing [0035/4569, time/total: 00:18/08:14:50]: addfont [2k]
+Installing [0036/4569, time/total: 00:19/08:41:24]: addliga [1k]
+Installing [0037/4569, time/total: 00:19/08:40:54]: addlines [2k]
+Installing [0038/4569, time/total: 00:19/08:39:57]: addtoluatexpath [3k]
+Installing [0039/4569, time/total: 00:20/09:05:49]: adfathesis [10k]
+Installing [0040/4569, time/total: 00:21/09:26:32]: adforn [37k]
+Installing [0041/4569, time/total: 00:21/09:02:36]: adfsymbols [28k]
+Installing [0042/4569, time/total: 00:22/09:11:13]: adhocfilelist [4k]
+Installing [0043/4569, time/total: 00:23/09:34:01]: adigraph [6k]
+Installing [0044/4569, time/total: 00:24/09:55:20]: adjmulticol [4k]
+Installing [0045/4569, time/total: 00:24/09:53:22]: adjustbox [14k]
+Installing [0046/4569, time/total: 00:25/10:09:10]: adobemapping [2128k]
+Installing [0047/4569, time/total: 00:31/03:48:13]: adrconv [3k]
+Installing [0048/4569, time/total: 00:32/03:55:22]: adtrees [8k]
+Installing [0049/4569, time/total: 00:33/04:02:07]: advdate [3k]
+Installing [0050/4569, time/total: 00:34/04:09:16]: advice [6k]
+Installing [0051/4569, time/total: 00:36/04:23:30]: ae [57k]
+Installing [0052/4569, time/total: 00:38/04:33:09]: aeguill [3k]
+Installing [0053/4569, time/total: 00:39/04:40:08]: aesupp [2761k]
+Installing [0054/4569, time/total: 00:45/02:51:36]: affilauthor [3k]
+Installing [0055/4569, time/total: 00:46/02:55:20]: afm2pl [10k]
+Installing [0056/4569, time/total: 00:46/02:55:03]: afthesis [13k]
+Installing [0057/4569, time/total: 00:47/02:58:29]: aguplus [29k]
+Installing [0058/4569, time/total: 00:48/03:01:25]: aiaa [9k]
+Installing [0059/4569, time/total: 00:48/03:01:09]: aichej [7k]
+Installing [0060/4569, time/total: 00:49/03:04:45]: aiplans [2k]
+Installing [0061/4569, time/total: 00:49/03:04:41]: ajl [7k]
+Installing [0062/4569, time/total: 00:50/03:08:16]: akktex [14k]
+Installing [0063/4569, time/total: 00:50/03:07:50]: akletter [10k]
+Installing [0064/4569, time/total: 00:51/03:11:17]: akshar [3k]
+Installing [0065/4569, time/total: 00:51/03:11:11]: albatross [4894k]
+Installing [0066/4569, time/total: 00:59/02:01:41]: alchemist [4k]
+Installing [0067/4569, time/total: 01:00/02:03:43]: alegreya [23155k]
+Installing [0068/4569, time/total: 01:40/01:05:55]: aleph [1k]
+Installing [0069/4569, time/total: 01:41/01:06:35]: alertmessage [7k]
+Installing [0070/4569, time/total: 01:42/01:07:13]: alfaslabone [174k]
+Installing [0071/4569, time/total: 01:42/01:06:53]: alg [3k]
+Installing [0072/4569, time/total: 01:43/01:07:32]: algobox [4k]
+Installing [0073/4569, time/total: 01:44/01:08:11]: algolrevived [376k]
+Installing [0074/4569, time/total: 01:45/01:08:05]: algorithm2e [33k]
+Installing [0075/4569, time/total: 01:46/01:08:40]: algorithmicx [8k]
+Installing [0076/4569, time/total: 01:47/01:09:18]: algorithms [4k]
+Installing [0077/4569, time/total: 01:48/01:09:57]: algpseudocodex [10k]
+Installing [0078/4569, time/total: 01:48/01:09:56]: algxpar [10k]
+Installing [0079/4569, time/total: 01:49/01:10:33]: aligned-overset [2k]
+Installing [0080/4569, time/total: 01:50/01:11:12]: alkalami [96k]
+Installing [0081/4569, time/total: 01:51/01:11:39]: allrunes [7848k]
+Installing [0082/4569, time/total: 02:05/01:05:50]: almendra [308k]
+Installing [0083/4569, time/total: 02:07/01:06:24]: almfixed [241k]
+Installing [0084/4569, time/total: 02:08/01:06:33]: alnumsec [3k]
+Installing [0085/4569, time/total: 02:09/01:07:04]: alpha-persian [8k]
+Installing [0086/4569, time/total: 02:09/01:07:03]: alphalph [4k]
+Installing [0087/4569, time/total: 02:10/01:07:34]: alterqcm [7k]
+Installing [0088/4569, time/total: 02:11/01:08:05]: altfont [4k]
+Installing [0089/4569, time/total: 02:11/01:08:04]: altsubsup [2k]
+Installing [0090/4569, time/total: 02:12/01:08:35]: amiri [457k]
+Installing [0091/4569, time/total: 02:14/01:08:54]: amiweb2c-guide [1k]
+Installing [0092/4569, time/total: 02:15/01:09:25]: amnestyreport [6k]
+Installing [0093/4569, time/total: 02:15/01:09:24]: amsaddr [2k]
+Installing [0094/4569, time/total: 02:16/01:09:55]: amscdx [4k]
+Installing [0095/4569, time/total: 02:17/01:10:26]: amscls [32k]
+Installing [0096/4569, time/total: 02:17/01:10:22]: amscls-doc [1k]
+Installing [0097/4569, time/total: 02:18/01:10:53]: amsfonts [3542k]
+Installing [0098/4569, time/total: 02:28/01:10:19]: amslatex-primer [1k]
+Installing [0099/4569, time/total: 02:29/01:10:48]: amsldoc-it [1k]
+Installing [0100/4569, time/total: 02:29/01:10:48]: amsldoc-vn [1k]
+Installing [0101/4569, time/total: 02:30/01:11:16]: amsmath [31k]
+Installing [0102/4569, time/total: 02:31/01:11:42]: amsmath-it [1k]
+Installing [0103/4569, time/total: 02:31/01:11:42]: amsrefs [27k]
+Installing [0104/4569, time/total: 02:32/01:12:08]: amstex [38k]
+Installing [0105/4569, time/total: 02:33/01:12:33]: amsthdoc-it [1k]
+Installing [0106/4569, time/total: 02:33/01:12:33]: andika [2788k]
+Installing [0107/4569, time/total: 02:38/01:10:45]: anima [4k]
+Installing [0108/4569, time/total: 02:39/01:11:12]: animate [24k]
+Installing [0109/4569, time/total: 02:39/01:11:10]: annee-scolaire [2k]
+Installing [0110/4569, time/total: 02:40/01:11:36]: annotate [5k]
+Installing [0111/4569, time/total: 02:40/01:11:36]: annotate-equations [3k]
+Installing [0112/4569, time/total: 02:41/01:12:03]: anonchap [2k]
+Installing [0113/4569, time/total: 02:42/01:12:29]: anonymous-acm [2k]
+Installing [0114/4569, time/total: 02:42/01:12:29]: anonymouspro [406k]
+Installing [0115/4569, time/total: 02:43/01:12:21]: answers [3k]
+Installing [0116/4569, time/total: 02:44/01:12:47]: antanilipsum [11k]
+Installing [0117/4569, time/total: 02:45/01:13:13]: antiqua [62k]
+Installing [0118/4569, time/total: 02:46/01:13:35]: antique-spanish-units [1k]
+Installing [0119/4569, time/total: 02:46/01:13:34]: antomega [65k]
+Installing [0120/4569, time/total: 02:47/01:13:55]: antt [4597k]
+Installing [0121/4569, time/total: 02:57/01:11:50]: anufinalexam [1k]
+Installing [0122/4569, time/total: 02:58/01:12:15]: anyfontsize [3k]
+Installing [0123/4569, time/total: 02:58/01:12:14]: anysize [2k]
+Installing [0124/4569, time/total: 02:59/01:12:39]: aobs-tikz [2k]
+Installing [0125/4569, time/total: 03:00/01:13:03]: aomart [21k]
+Installing [0126/4569, time/total: 03:01/01:13:26]: apa [13k]
+Installing [0127/4569, time/total: 03:02/01:13:49]: apa6 [14k]
+Installing [0128/4569, time/total: 03:02/01:13:48]: apa6e [3k]
+Installing [0129/4569, time/total: 03:03/01:14:12]: apa7 [14k]
+Installing [0130/4569, time/total: 03:04/01:14:35]: apacite [42k]
+Installing [0131/4569, time/total: 03:05/01:14:56]: apalike-ejor [7k]
+Installing [0132/4569, time/total: 03:06/01:15:20]: apalike-german [6k]
+Installing [0133/4569, time/total: 03:06/01:15:19]: apalike2 [7k]
+Installing [0134/4569, time/total: 03:07/01:15:43]: apnum [14k]
+Installing [0135/4569, time/total: 03:08/01:16:06]: appendix [3k]
+Installing [0136/4569, time/total: 03:09/01:16:30]: appendixnumberbeamer [2k]
+Installing [0137/4569, time/total: 03:10/01:16:55]: apprendre-a-programmer-en-tex [1k]
+Installing [0138/4569, time/total: 03:11/01:17:19]: apprends-latex [1k]
+Installing [0139/4569, time/total: 03:11/01:17:19]: apptools [2k]
+Installing [0140/4569, time/total: 03:12/01:17:43]: apxproof [5k]
+Installing [0141/4569, time/total: 03:13/01:18:07]: arabi [1890k]
+Installing [0142/4569, time/total: 03:20/01:18:17]: arabi-add [3k]
+Installing [0143/4569, time/total: 03:21/01:18:40]: arabic-book [3k]
+Installing [0144/4569, time/total: 03:22/01:19:03]: arabicfront [2k]
+Installing [0145/4569, time/total: 03:22/01:19:03]: arabluatex [20k]
+Installing [0146/4569, time/total: 03:23/01:19:25]: arabtex [217k]
+Installing [0147/4569, time/total: 03:25/01:19:54]: arabxetex [145k]
+Installing [0148/4569, time/total: 03:26/01:20:05]: aramaic-serto [96k]
+Installing [0149/4569, time/total: 03:27/01:20:21]: arara [15165k]
+Installing [0150/4569, time/total: 03:53/01:11:38]: archaeologie [71k]
+Installing [0151/4569, time/total: 03:54/01:11:53]: archaic [364k]
+Installing [0152/4569, time/total: 03:55/01:11:50]: archivo [1449k]
+Installing [0153/4569, time/total: 03:57/01:11:02]: arcs [2k]
+Installing [0154/4569, time/total: 03:58/01:11:20]: arev [943k]
+Installing [0155/4569, time/total: 03:59/01:10:45]: argumentation [6k]
+Installing [0156/4569, time/total: 04:00/01:11:02]: arimo [2838k]
+Installing [0157/4569, time/total: 04:08/01:10:45]: armtex [516k]
+Installing [0158/4569, time/total: 04:13/01:11:43]: around-the-bend [1k]
+Installing [0159/4569, time/total: 04:13/01:11:43]: arphic [26742k]
+Installing [0160/4569, time/total: 04:59/01:03:21]: arphic-ttf [12367k]
+Installing [0161/4569, time/total: 05:16/59:57]: arraycols [2k]
+Installing [0162/4569, time/total: 05:18/01:00:20]: arrayjobx [3k]
+Installing [0163/4569, time/total: 05:19/01:00:31]: arraysort [3k]
+Installing [0164/4569, time/total: 05:19/01:00:31]: arsclassica [3k]
+Installing [0165/4569, time/total: 05:20/01:00:42]: arsenal [198k]
+Installing [0166/4569, time/total: 05:21/01:00:47]: articleingud [5k]
+Installing [0167/4569, time/total: 05:26/01:01:44]: arvo [104k]
+Installing [0168/4569, time/total: 05:27/01:01:52]: arydshln [10k]
+Installing [0169/4569, time/total: 05:28/01:02:03]: asaetr [13k]
+Installing [0170/4569, time/total: 05:29/01:02:14]: asana-math [658k]
+Installing [0171/4569, time/total: 05:31/01:02:16]: asapsym [47k]
+Installing [0172/4569, time/total: 05:32/01:02:26]: ascelike [13k]
+Installing [0173/4569, time/total: 05:33/01:02:37]: ascii-chart [1k]
+Installing [0174/4569, time/total: 05:34/01:02:48]: ascii-font [48k]
+Installing [0175/4569, time/total: 05:35/01:02:58]: asciilist [4k]
+Installing [0176/4569, time/total: 05:36/01:03:09]: ascmac [17k]
+Installing [0177/4569, time/total: 05:37/01:03:20]: askinclude [5k]
+Installing [0178/4569, time/total: 05:37/01:03:20]: askmaps [4k]
+Installing [0179/4569, time/total: 05:38/01:03:31]: asmeconf [31k]
+Installing [0180/4569, time/total: 05:39/01:03:41]: asmejour [23k]
+Installing [0181/4569, time/total: 05:40/01:03:52]: aspectratio [65k]
+Installing [0182/4569, time/total: 05:41/01:04:01]: assignment [2k]
+Installing [0183/4569, time/total: 05:42/01:04:12]: assoccnt [4k]
+Installing [0184/4569, time/total: 05:43/01:04:23]: association-matrix [5k]
+Installing [0185/4569, time/total: 05:49/01:05:31]: asternote [2k]
+Installing [0186/4569, time/total: 05:50/01:05:42]: astro [13k]
+Installing [0187/4569, time/total: 05:51/01:05:53]: asy-overview [1k]
+Installing [0188/4569, time/total: 05:52/01:06:04]: asyfig [4k]
+Installing [0189/4569, time/total: 05:52/01:06:04]: asymptote [372k]
+Installing [0190/4569, time/total: 05:54/01:06:14]: asymptote-by-example-zh-cn [1k]
+Installing [0191/4569, time/total: 05:55/01:06:25]: asymptote-faq-zh-cn [1k]
+Installing [0192/4569, time/total: 05:56/01:06:37]: asymptote-manual-zh-cn [1k]
+Installing [0193/4569, time/total: 05:57/01:06:48]: asypictureb [4k]
+Installing [0194/4569, time/total: 05:57/01:06:48]: atableau [24k]
+Installing [0195/4569, time/total: 05:58/01:06:58]: atbegshi [5k]
+Installing [0196/4569, time/total: 05:59/01:07:09]: atenddvi [2k]
+Installing [0197/4569, time/total: 06:00/01:07:20]: atendofenv [2k]
+Installing [0198/4569, time/total: 06:01/01:07:32]: atkinson [330k]
+Installing [0199/4569, time/total: 06:07/01:08:28]: attachfile [5k]
+Installing [0200/4569, time/total: 06:27/01:12:11]: attachfile2 [11k]
+Installing [0201/4569, time/total: 06:29/01:12:33]: atveryend [2k]
+Installing [0202/4569, time/total: 06:29/01:12:33]: aucklandthesis [4k]
+Installing [0203/4569, time/total: 06:30/01:12:44]: augie [61k]
+Installing [0204/4569, time/total: 06:31/01:12:53]: auncial-new [197k]
+Installing [0205/4569, time/total: 06:33/01:13:09]: aurical [2390k]
+Installing [0206/4569, time/total: 07:16/01:19:34]: aurl [14k]
+Installing [0207/4569, time/total: 07:16/01:19:34]: authoraftertitle [1k]
+Installing [0208/4569, time/total: 07:17/01:19:45]: authorarchive [4k]
+Installing [0209/4569, time/total: 07:26/01:21:23]: authordate [9k]
+Installing [0210/4569, time/total: 07:27/01:21:34]: authorindex [9k]
+Installing [0211/4569, time/total: 07:28/01:21:44]: auto-pst-pdf [3k]
+Installing [0212/4569, time/total: 07:29/01:21:55]: auto-pst-pdf-lua [3k]
+Installing [0213/4569, time/total: 07:29/01:21:55]: autoaligne [10k]
+Installing [0214/4569, time/total: 07:30/01:22:06]: autoarea [5k]
+Installing [0215/4569, time/total: 07:31/01:22:16]: autobreak [3k]
+Installing [0216/4569, time/total: 07:43/01:24:28]: autofancyhdr [2k]
+Installing [0217/4569, time/total: 07:44/01:24:38]: automata [6k]
+Installing [0218/4569, time/total: 07:45/01:24:49]: autonum [4k]
+Installing [0219/4569, time/total: 07:45/01:24:49]: autopdf [5k]
+Installing [0220/4569, time/total: 07:46/01:25:00]: autopuncitems [4k]
+Installing [0221/4569, time/total: 07:47/01:25:11]: autosp [1k]
+Installing [0222/4569, time/total: 07:47/01:25:11]: autotype [447k]
+Installing [0223/4569, time/total: 07:50/01:25:25]: auxhook [2k]
+Installing [0224/4569, time/total: 07:50/01:25:25]: avantgar [236k]
+Installing [0225/4569, time/total: 07:52/01:25:37]: avremu [13k]
+Installing [0226/4569, time/total: 07:53/01:25:47]: awesomebox [3k]
+Installing [0227/4569, time/total: 07:54/01:25:58]: axessibility [4k]
+Installing [0228/4569, time/total: 07:54/01:25:58]: axodraw2 [25k]
+Installing [0229/4569, time/total: 07:55/01:26:08]: b1encoding [5k]
+Installing [0230/4569, time/total: 07:56/01:26:18]: babel [231k]
+Installing [0231/4569, time/total: 07:58/01:26:30]: babel-albanian [3k]
+Installing [0232/4569, time/total: 07:58/01:26:30]: babel-azerbaijani [4k]
+Installing [0233/4569, time/total: 07:59/01:26:41]: babel-basque [3k]
+Installing [0234/4569, time/total: 08:00/01:26:52]: babel-belarusian [5k]
+Installing [0235/4569, time/total: 08:00/01:26:52]: babel-bosnian [3k]
+Installing [0236/4569, time/total: 08:01/01:27:02]: babel-breton [3k]
+Installing [0237/4569, time/total: 08:02/01:27:13]: babel-bulgarian [6k]
+Installing [0238/4569, time/total: 08:02/01:27:13]: babel-catalan [4k]
+Installing [0239/4569, time/total: 08:03/01:27:24]: babel-croatian [3k]
+Installing [0240/4569, time/total: 08:04/01:27:34]: babel-czech [5k]
+Installing [0241/4569, time/total: 08:04/01:27:34]: babel-danish [3k]
+Installing [0242/4569, time/total: 08:05/01:27:45]: babel-dutch [3k]
+Installing [0243/4569, time/total: 08:06/01:27:56]: babel-english [3k]
+Installing [0244/4569, time/total: 08:06/01:27:55]: babel-esperanto [3k]
+Installing [0245/4569, time/total: 08:07/01:28:06]: babel-estonian [3k]
+Installing [0246/4569, time/total: 08:08/01:28:17]: babel-finnish [3k]
+Installing [0247/4569, time/total: 08:08/01:28:17]: babel-french [16k]
+Installing [0248/4569, time/total: 08:09/01:28:27]: babel-friulan [2k]
+Installing [0249/4569, time/total: 08:10/01:28:38]: babel-galician [8k]
+Installing [0250/4569, time/total: 08:10/01:28:38]: babel-georgian [5k]
+Installing [0251/4569, time/total: 08:11/01:28:48]: babel-german [5k]
+Installing [0252/4569, time/total: 08:12/01:28:59]: babel-greek [7k]
+Installing [0253/4569, time/total: 08:12/01:28:59]: babel-hebrew [12k]
+Installing [0254/4569, time/total: 08:13/01:29:09]: babel-hungarian [54k]
+Installing [0255/4569, time/total: 08:14/01:29:17]: babel-icelandic [5k]
+Installing [0256/4569, time/total: 08:14/01:29:17]: babel-indonesian [3k]
+Installing [0257/4569, time/total: 08:15/01:29:28]: babel-interlingua [3k]
+Installing [0258/4569, time/total: 08:16/01:29:39]: babel-irish [3k]
+Installing [0259/4569, time/total: 08:21/01:30:33]: babel-italian [4k]
+Installing [0260/4569, time/total: 08:22/01:30:44]: babel-japanese [3k]
+Installing [0261/4569, time/total: 08:33/01:32:43]: babel-kurmanji [3k]
+Installing [0262/4569, time/total: 08:34/01:32:53]: babel-latin [7k]
+Installing [0263/4569, time/total: 08:34/01:32:53]: babel-latvian [5k]
+Installing [0264/4569, time/total: 08:35/01:33:04]: babel-lithuanian [3k]
+Installing [0265/4569, time/total: 08:36/01:33:15]: babel-macedonian [5k]
+Installing [0266/4569, time/total: 08:36/01:33:14]: babel-malay [3k]
+Installing [0267/4569, time/total: 08:37/01:33:25]: babel-norsk [3k]
+Installing [0268/4569, time/total: 08:38/01:33:36]: babel-occitan [3k]
+Installing [0269/4569, time/total: 08:39/01:33:47]: babel-piedmontese [2k]
+Installing [0270/4569, time/total: 08:39/01:33:46]: babel-polish [4k]
+Installing [0271/4569, time/total: 08:40/01:33:57]: babel-portuges [3k]
+Installing [0272/4569, time/total: 08:41/01:34:08]: babel-romanian [3k]
+Installing [0273/4569, time/total: 08:42/01:34:19]: babel-romansh [2k]
+Installing [0274/4569, time/total: 08:43/01:34:29]: babel-russian [7k]
+Installing [0275/4569, time/total: 08:43/01:34:29]: babel-samin [2k]
+Installing [0276/4569, time/total: 08:44/01:34:40]: babel-scottish [2k]
+Installing [0277/4569, time/total: 08:45/01:34:51]: babel-serbian [4k]
+Installing [0278/4569, time/total: 08:45/01:34:50]: babel-serbianc [5k]
+Installing [0279/4569, time/total: 08:46/01:35:01]: babel-slovak [6k]
+Installing [0280/4569, time/total: 08:47/01:35:12]: babel-slovenian [3k]
+Installing [0281/4569, time/total: 08:48/01:35:22]: babel-sorbian [4k]
+Installing [0282/4569, time/total: 08:48/01:35:22]: babel-spanish [9k]
+Installing [0283/4569, time/total: 08:49/01:35:33]: babel-swedish [3k]
+Installing [0284/4569, time/total: 08:50/01:35:43]: babel-thai [7k]
+Installing [0285/4569, time/total: 08:51/01:35:54]: babel-turkish [3k]
+Installing [0286/4569, time/total: 08:51/01:35:54]: babel-ukrainian [5k]
+Installing [0287/4569, time/total: 08:52/01:36:04]: babel-vietnamese [3k]
+Installing [0288/4569, time/total: 08:55/01:36:37]: babel-welsh [2k]
+Installing [0289/4569, time/total: 08:56/01:36:48]: babelbib [27k]
+Installing [0290/4569, time/total: 08:56/01:36:46]: background [3k]
+Installing [0291/4569, time/total: 08:57/01:36:57]: backnaur [2k]
+Installing [0292/4569, time/total: 08:57/01:36:57]: baekmuk [8486k]
+Installing [0293/4569, time/total: 09:05/01:32:06]: bagpipe [11k]
+Installing [0294/4569, time/total: 09:05/01:32:06]: bangla [205k]
+Installing [0295/4569, time/total: 09:06/01:32:08]: bangorcsthesis [51k]
+Installing [0296/4569, time/total: 09:07/01:32:16]: bangorexam [46k]
+Installing [0297/4569, time/total: 09:07/01:32:14]: bangtex [35k]
+Installing [0298/4569, time/total: 09:08/01:32:22]: bankstatement [4k]
+Installing [0299/4569, time/total: 09:08/01:32:22]: barcodes [7k]
+Installing [0300/4569, time/total: 09:09/01:32:32]: bardiag [12k]
+Installing [0301/4569, time/total: 09:09/01:32:32]: barr [8k]
+Installing [0302/4569, time/total: 09:10/01:32:41]: barracuda [36k]
+Installing [0303/4569, time/total: 09:10/01:32:40]: bartel-chess-fonts [18k]
+Installing [0304/4569, time/total: 09:11/01:32:49]: bashful [6k]
+Installing [0305/4569, time/total: 09:11/01:32:49]: basicarith [3k]
+Installing [0306/4569, time/total: 09:12/01:32:59]: baskervaldadf [412k]
+Installing [0307/4569, time/total: 09:14/01:33:02]: baskervaldx [665k]
+Installing [0308/4569, time/total: 09:16/01:32:54]: baskervillef [1036k]
+Installing [0309/4569, time/total: 09:18/01:32:32]: basque-book [6k]
+Installing [0310/4569, time/total: 09:19/01:32:41]: basque-date [2k]
+Installing [0311/4569, time/total: 09:20/01:32:51]: bath-bst [9k]
+Installing [0312/4569, time/total: 09:20/01:32:51]: bbcard [7k]
+Installing [0313/4569, time/total: 09:21/01:33:01]: bbding [12k]
+Installing [0314/4569, time/total: 09:21/01:33:00]: bbm [32k]
+Installing [0315/4569, time/total: 09:23/01:33:19]: bbm-macros [2k]
+Installing [0316/4569, time/total: 09:23/01:33:19]: bbold [16k]
+Installing [0317/4569, time/total: 09:24/01:33:28]: bbold-type1 [69k]
+Installing [0318/4569, time/total: 09:24/01:33:25]: bboldx [70k]
+Installing [0319/4569, time/total: 09:25/01:33:32]: bchart [2k]
+Installing [0320/4569, time/total: 09:25/01:33:32]: bclogo [234k]
+Installing [0321/4569, time/total: 09:26/01:33:32]: beamer [165k]
+Installing [0322/4569, time/total: 09:27/01:33:35]: beamer-fuberlin [4k]
+Installing [0323/4569, time/total: 09:41/01:35:54]: beamer-rl [9k]
+Installing [0324/4569, time/total: 09:42/01:36:04]: beamer-tut-pt [1k]
+Installing [0325/4569, time/total: 09:47/01:36:53]: beamer-verona [4k]
+Installing [0326/4569, time/total: 09:48/01:37:03]: beamer2thesis [286k]
+Installing [0327/4569, time/total: 09:49/01:37:01]: beamerappendixnote [2k]
+Installing [0328/4569, time/total: 09:49/01:37:00]: beameraudience [2k]
+Installing [0329/4569, time/total: 09:50/01:37:10]: beamerauxtheme [4k]
+Installing [0330/4569, time/total: 09:51/01:37:20]: beamercolorthemeowl [2k]
+Installing [0331/4569, time/total: 09:51/01:37:20]: beamerdarkthemes [2k]
+Installing [0332/4569, time/total: 09:52/01:37:30]: beamerposter [8k]
+Installing [0333/4569, time/total: 09:52/01:37:29]: beamersubframe [4k]
+Installing [0334/4569, time/total: 09:53/01:37:39]: beamerswitch [5k]
+Installing [0335/4569, time/total: 09:54/01:37:49]: beamertheme-arguelles [3k]
+Installing [0336/4569, time/total: 09:55/01:37:59]: beamertheme-cuerna [3k]
+Installing [0337/4569, time/total: 09:55/01:37:58]: beamertheme-detlevcm [3k]
+Installing [0338/4569, time/total: 09:56/01:38:08]: beamertheme-epyt [4k]
+Installing [0339/4569, time/total: 10:04/01:39:27]: beamertheme-focus [5k]
+Installing [0340/4569, time/total: 10:04/01:39:27]: beamertheme-gotham [20k]
+Installing [0341/4569, time/total: 10:05/01:39:36]: beamertheme-light [3k]
+Installing [0342/4569, time/total: 10:06/01:39:46]: beamertheme-metropolis [7k]
+Installing [0343/4569, time/total: 10:06/01:39:45]: beamertheme-mirage [3k]
+Installing [0344/4569, time/total: 10:07/01:39:55]: beamertheme-npbt [1424k]
+Installing [0345/4569, time/total: 10:13/01:39:52]: beamertheme-phnompenh [1k]
+Installing [0346/4569, time/total: 10:13/01:39:52]: beamertheme-pure-minimalistic [5k]
+Installing [0347/4569, time/total: 10:14/01:40:01]: beamertheme-rainbow [2k]
+Installing [0348/4569, time/total: 10:14/01:40:01]: beamertheme-saintpetersburg [4k]
+Installing [0349/4569, time/total: 10:15/01:40:11]: beamertheme-simpledarkblue [2k]
+Installing [0350/4569, time/total: 10:15/01:40:11]: beamertheme-simpleplus [2k]
+Installing [0351/4569, time/total: 10:16/01:40:21]: beamertheme-tcolorbox [3k]
+Installing [0352/4569, time/total: 10:16/01:40:21]: beamertheme-trigon [6k]
+Installing [0353/4569, time/total: 10:17/01:40:30]: beamertheme-upenn-bc [2k]
+Installing [0354/4569, time/total: 10:18/01:40:40]: beamerthemeamurmaple [7k]
+Installing [0355/4569, time/total: 10:18/01:40:39]: beamerthemecelestia [10k]
+Installing [0356/4569, time/total: 10:19/01:40:49]: beamerthemeconcrete [15k]
